@@ -14,6 +14,8 @@ The sample database used in the project can be found here
 
 ## Installing Ionic
 
+We use ionic framework for the UI in this application
+
 ```
 npm install @ionic/vue@0.0.9 --save
 npm install @ionic/core --save
