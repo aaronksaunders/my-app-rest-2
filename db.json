@@ -1,0 +1,74 @@
+{
+  "users": [
+    {
+      "name": {
+        "first": "andrea",
+        "last": "saunders"
+      },
+      "email": "and@mail.com",
+      "picture": "https://randomuser.me/api/portraits/women/10.jpg",
+      "location": {
+        "city": "Baltimore",
+        "state": "Marlyand"
+      },
+      "companyId": "2",
+      "id": 5
+    },
+    {
+      "name": {
+        "first": "Joe",
+        "last": "Nike"
+      },
+      "location": {
+        "city": "Seattle",
+        "state": "Washington"
+      },
+      "email": "joe@gmail.com",
+      "picture": "https://randomuser.me/api/portraits/men/16.jpg",
+      "companyId": "3",
+      "id": 15
+    },
+    {
+      "name": {
+        "first": "Billy Bob",
+        "last": "Barnwood"
+      },
+      "email": "bbob@gmaukjks.com",
+      "picture": "https://randomuser.me/api/portraits/women/16.jpg",
+      "location": {
+        "city": "Las Vegas",
+        "state": "Nevada"
+      },
+      "companyId": "3",
+      "id": 16
+    },
+    {
+      "name": {
+        "first": "Tester",
+        "last": "Man-Child"
+      },
+      "email": "tester-man@fake-email.com",
+      "picture": "https://randomuser.me/api/portraits/men/20.jpg",
+      "location": {
+        "city": "Miami",
+        "state": "Florida"
+      },
+      "companyId": "2",
+      "id": 17
+    }
+  ],
+  "companies": [
+    {
+      "id": 1,
+      "name": "Clearly Innovative Inc"
+    },
+    {
+      "id": 2,
+      "name": "In3DC LLC"
+    },
+    {
+      "id": 3,
+      "name": "Luma Lab"
+    }
+  ]
+}
